@@ -32,5 +32,3 @@ realize/assets/*
 vendor
 bin
 glide.*
-Dockerfile
-docker-compose.yml
