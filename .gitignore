@@ -29,7 +29,6 @@ _testmain.go
 .realize
 
 realize/assets/*
-docker
 vendor
 bin
 glide.*
